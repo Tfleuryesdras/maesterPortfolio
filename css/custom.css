@@ -47,6 +47,19 @@ p {
     padding: 0;
     height: 100vh;
 }
+
+.web-design-header_1 {
+    position: relative;
+    min-height: 100%;
+    text-align: justify;
+    color: #F1F0ED;
+    background-image: url('../images/Desk.jpg');
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
 .web-design-header-content {
       display: flex;
     flex-direction: column;
