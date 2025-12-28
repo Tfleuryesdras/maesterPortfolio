@@ -25,7 +25,7 @@ document.getElementById('contact-form')?.addEventListener('submit', function(e) 
     };
 
     // If you don't have a backend, open the user's mail client with a prefilled message
-    const to = 'esdrasfleury@gmail.com';
+    const to = 'Tfleuryesdras@gmail.com';
     const mailSubject = encodeURIComponent(formData.subject || `Contact from ${formData.name}`);
     const mailBody = encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\n${formData.message}`);
     const mailtoLink = `mailto:${to}?subject=${mailSubject}&body=${mailBody}`;
