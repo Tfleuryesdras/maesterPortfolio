@@ -681,3 +681,15 @@ img::selection {
     align-items: flex-end;
     text-align: right;
 }
+/* Fingerprint icon in navbar */
+.navbar-brand svg {
+    width: 28px;
+    height: 28px;
+    vertical-align: middle;
+    margin-right: 8px;
+    color: #D2C4AF; /* accent color */
+    fill: currentColor;
+}
+.navbar-brand:hover svg {
+    color: #322424; /* hover color */
+}
