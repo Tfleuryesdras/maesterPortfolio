@@ -353,7 +353,7 @@ justify-content: center;
     text-align: center;
     color: #000;
 }
-.content .content-3 p {
+.content-3 .p .lead text-muted {
     color: #000;
 }
 .promo,
