@@ -349,7 +349,7 @@ justify-content: center;
     text-align: center;
     color: #000;
 }
-.content-3 p.text-light {
+.content .content-3 p {
     color: rgba(0,0,0,0.0);
 }
 .promo,
