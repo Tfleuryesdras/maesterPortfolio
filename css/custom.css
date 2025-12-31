@@ -443,7 +443,7 @@ justify-content: center;
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #322424;
+    color: #D2C4AF;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover {
@@ -511,7 +511,9 @@ justify-content: center;
         color: #322424;
     }
 
-    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:hover{
+        color: #D2C4AF;
+    }
     .navbar-default.affix .navbar-header .navbar-brand:focus {
         color: #322424;
     }
