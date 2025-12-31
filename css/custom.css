@@ -355,7 +355,7 @@ justify-content: center;
     text-align: center;
     color: #000;
 }
-.content-3 .lead text-muted {
+.content-3 .lead .text-primary {
     color: #000;
 } 
 .promo,
