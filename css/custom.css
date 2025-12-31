@@ -268,7 +268,7 @@ html {
 }
 
 .intro {
-    color: #F1F0ED;
+    color: #fff;
     background-color: #D2C4AF;
     padding: 50px 0;
     text-align: center;
@@ -328,7 +328,7 @@ justify-content: center;
     align-self: center;
 }
 .content-2 {
-    color: #F1F0ED;
+    color: #fff;
     background-color: #A0A0A0;
     text-align: justify;
 
@@ -354,7 +354,7 @@ justify-content: center;
 .promo a:visited,
 .promo a:hover,
 .promo a:active {
-    color: #F1F0ED;
+    color: #fff;
     text-shadow: 0px 0px 40px #A0A0A0;
     text-decoration: none;
 }
@@ -413,7 +413,7 @@ justify-content: center;
 
 .content-3 .glyphicon,
 .page-footer .contact .glyphicon {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 700;
 }
 
