@@ -341,7 +341,10 @@ justify-content: center;
     text-align: justify;
     color: #000;
 }
-
+.content-2 .section-header h2 {
+    color: #000;
+    text-align: center;
+}
 .content-2 .col-sm-4 .btn {
     align-self: center;
 }
