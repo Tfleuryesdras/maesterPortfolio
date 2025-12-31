@@ -448,7 +448,7 @@ justify-content: center;
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #322424;
+    color: #D2C4AF;
 }
 
 .navbar-default .nav > li > a,
@@ -703,5 +703,5 @@ img::selection {
     fill: currentColor;
 }
 .navbar-brand:hover svg {
-    color: #D2C4AF; /* hover color */
+    color: #322424; /* hover color */
 }
