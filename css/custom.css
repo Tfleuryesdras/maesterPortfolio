@@ -683,7 +683,7 @@ img::selection {
 }
 /* Fingerprint icon in navbar */
 .navbar-brand svg {
-    width: 100;
+    width: 28px;
     height: 28px;
     vertical-align: middle;
     margin-right: 8px;
