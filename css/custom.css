@@ -359,7 +359,7 @@ justify-content: center;
 .promo a:hover,
 .promo a:active {
     color: #fff;
-    text-shadow: 0px 0px 40px #A0A0A0;
+    text-shadow: 0px 0px 40px #000;
     text-decoration: none;
 }
 
@@ -371,7 +371,7 @@ justify-content: center;
 
 .promo-item:hover {
     background-size: 110%;
-    border: 10px solid rgba(241,240,237,0.3);
+    border: 10px solid #000;
     line-height: 160px;
 }
 
@@ -427,7 +427,7 @@ justify-content: center;
 }
 
 .text-light {
-    color: rgba(241,240,237,0.7);
+    color: #000;
 }
 
 .navbar-default {
