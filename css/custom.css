@@ -179,7 +179,9 @@ p {
     margin-right: 10px;
     color: #322424;
 }
-
+.portfolio-item p {
+    color: #000;
+}
 /* Contact Form Styles */
 .contact-info {
     padding: 30px;
@@ -353,9 +355,9 @@ justify-content: center;
     text-align: center;
     color: #000;
 }
-.content-3 .p .lead text-muted {
+.content-3 .lead text-muted {
     color: #000;
-}
+} 
 .promo,
 .promo h3,
 .promo a:link,
