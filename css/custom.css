@@ -696,7 +696,7 @@ img::selection {
     color: #000;
 }
 /* Fingerprint icon in navbar */
-.navbar-brand svg {
+.navbar-brand:focus svg {
     width: 28px;
     height: 28px;
     vertical-align: middle;
@@ -705,5 +705,5 @@ img::selection {
     fill: currentColor;
 }
 .navbar-brand:hover svg {
-    color: #322424; /* hover color */
+    color: #D2C4AF; /* hover color */
 }
