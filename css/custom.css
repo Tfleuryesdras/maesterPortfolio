@@ -334,14 +334,15 @@ justify-content: center;
     text-align: justify;
 
 }
-.content-2 .col-sm-24 {
+.content-2 .col-sm-4 {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: justify;
+    color: #000;
 }
 
-.content-2 .col-sm-24 .btn {
+.content-2 .col-sm-4 .btn {
     align-self: center;
 }
 .content-3 {
@@ -676,6 +677,7 @@ img::selection {
     display: flex;
     justify-content: flex-start;
     align-items: left;
+    color: #000;
 }
 
 .col-sm-8.text-right {
@@ -684,6 +686,7 @@ img::selection {
     justify-content: right;
     align-items: flex-end;
     text-align: right;
+    color: #000;
 }
 /* Fingerprint icon in navbar */
 .navbar-brand svg {
