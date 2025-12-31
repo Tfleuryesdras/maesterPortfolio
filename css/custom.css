@@ -349,7 +349,9 @@ justify-content: center;
     text-align: center;
     color: #000;
 }
-
+.content-3 p.text-light {
+    color: rgba(0,0,0,0.0);
+}
 .promo,
 .promo h3,
 .promo a:link,
