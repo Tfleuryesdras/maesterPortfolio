@@ -329,7 +329,7 @@ justify-content: center;
     align-self: center;
 }
 .content-2 {
-    color: #fff;
+    color: #000;
     background-color: #A0A0A0;
     text-align: justify;
 
@@ -438,7 +438,7 @@ justify-content: center;
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #D2C4AF;
+    color: #000;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
