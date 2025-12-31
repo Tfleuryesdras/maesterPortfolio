@@ -443,7 +443,7 @@ justify-content: center;
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #000;
+    color: #322424;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -506,7 +506,7 @@ justify-content: center;
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: #D2C4AF;
+        color: #322424;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -699,7 +699,7 @@ img::selection {
     height: 28px;
     vertical-align: middle;
     margin-right: 8px;
-    color: #D2C4AF; /* accent color */
+    color: #322424; /* accent color */
     fill: currentColor;
 }
 .navbar-brand:hover svg {
