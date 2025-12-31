@@ -446,9 +446,11 @@ justify-content: center;
     color: #322424;
 }
 
-.navbar-default .navbar-header .navbar-brand:hover,
-.navbar-default .navbar-header .navbar-brand:focus {
+.navbar-default .navbar-header .navbar-brand:hover {
     color: #D2C4AF;
+}
+.navbar-default .navbar-header .navbar-brand:focus {
+    color: #322424;
 }
 
 .navbar-default .nav > li > a,
