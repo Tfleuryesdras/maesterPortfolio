@@ -276,6 +276,7 @@ html {
 }
 .intro p.text-light {
     font-size: 18px;
+    color: #fff;
 }
 
 .intro h2 {
@@ -346,6 +347,7 @@ justify-content: center;
 .content-3 {
     padding: 20px 0 40px;
     text-align: center;
+    color: #000;
 }
 
 .promo,
@@ -414,7 +416,7 @@ justify-content: center;
 .content-3 .glyphicon,
 .page-footer .contact .glyphicon {
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .page-footer .small-print {
